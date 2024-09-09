@@ -13,6 +13,11 @@ This code base also has the code used in the article to learn some basics of flu
 # Welcome to Day 2 of my 7-Day Flutter Challenge! 🚀
 What's This All About?
 
-https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e
+
+https://github.com/user-attachments/assets/8cdbffa2-d272-4554-9aa0-200a053e87a8
+
+
+
+[Find more about the 7 day flutter challenge here.](https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e))
 
 
