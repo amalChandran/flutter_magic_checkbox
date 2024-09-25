@@ -4,6 +4,8 @@
 </p>
 A simple checkbox in flutter that morphs to checked state with a subtle animation. 
 
+[Here is the article for this repo.](https://codinglollypop.medium.com/uncheck-your-doubts-mastering-flutter-canvas-with-a-simple-checkbox-animation-a0375ad2df24)
+
 ## Also Learn some flutter canvas basics
 This code base also has the code used in the article to learn some basics of flutter canvas. 
 <p align="center">
